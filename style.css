@@ -1,0 +1,130 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+font-family: 'Yeseva One', cursive;
+}
+.border{
+    border-image:linear gradient(red,cyan);
+    border-image-slice: 1px;
+    border-left: 3px solid red;
+    padding-left: 5px;
+    border-radius: 3px;
+    font-size: 50px;
+}
+.link-button{
+     text-decoration: none;
+     background-color: rgb(212, 75, 50);
+     padding: 10px 40px;
+     border-radius: 5px;
+     color: white;
+     
+
+ 
+}
+  
+
+
+
+body{
+    font-family: 'Dongle', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+font-family: 'Yeseva One', cursive;
+}
+.tupi{
+padding-top: 20px;
+}
+
+section{
+    display: flex;
+}
+.half-width{
+    width: 100%;
+ 
+    
+    
+
+
+}
+.half-width img{
+    width: 400px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+#omor{
+    padding-top: 150px;
+    padding-left: 140px;
+}
+.color{
+    color: orange;
+}
+.robot{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+.half-width-f{
+margin-left: 5%;
+margin-right: 5%;
+border-radius: 20px;
+border-top: 30px;
+width:300px ;
+border-left: 5%;
+border-right: 5%;
+
+}
+.half-width-f img{
+    width: 200px;
+}
+#chiesa{
+background-color: rgb(176, 217, 231);
+
+}
+#mbappe{
+background-color: rgb(223, 186, 192);
+}
+#meer{
+background-color: rgb(216, 206, 190);
+}
+.side{
+    padding-left:20px ;
+}
+.image{
+    width: 10px;
+}
+#op{
+    width: 50px;
+  border-right: 50px;
+}
+.yo{
+   padding-top: 30px; 
+}
+#lol{
+    padding-top: 80px;
+}
+.job{
+    text-align: center;
+    padding-top: 50px;
+}
+
+ #maruf{
+     padding-top: 100px;
+ }  
+ .table-box{
+     width: 1500px;
+     height: 250px;
+     background-color: black;
+     border: none;
+     border-radius: 40px;
+ }
+ footer p{
+     color: white;
+     text-align: center;
+ }
+ .mane{
+     font-size: 50px;
+ }
+ .col{
+     color: tomato;
+ }
